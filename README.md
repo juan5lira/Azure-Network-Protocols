@@ -68,5 +68,7 @@ icmpv4
 <img width="1652" height="900" alt="image" src="https://github.com/user-attachments/assets/92dee813-e4b0-4733-a571-71e9547a6273" />
 ubuntu
 
+<img width="1492" height="826" alt="image" src="https://github.com/user-attachments/assets/1da535bd-7f7d-4b7b-9de9-063da1e9ecb9" />
+ubuntu linux to windows
 
 <br />
