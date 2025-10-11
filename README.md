@@ -57,4 +57,16 @@ wireshark
 <p>
 Lorem ipsum dolor 
 </p>
+<img width="1657" height="673" alt="image" src="https://github.com/user-attachments/assets/c2fc9834-21fd-4141-9f55-246be83a661e" />
+Network configuration
+
+
+<img width="1437" height="803" alt="image" src="https://github.com/user-attachments/assets/852f1718-5492-4d05-87d0-b2ff07478a9d" />
+icmpv4
+
+
+<img width="1652" height="900" alt="image" src="https://github.com/user-attachments/assets/92dee813-e4b0-4733-a571-71e9547a6273" />
+ubuntu
+
+
 <br />
