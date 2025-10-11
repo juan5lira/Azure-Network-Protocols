@@ -54,7 +54,8 @@ Lorem ipsum
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1748" height="1011" alt="image" src="https://github.com/user-attachments/assets/38b1d640-a321-4c65-9744-4b4a134ae40c" />
+
 </p>
 <p>
 Lorem ipsum dolor 
