@@ -25,9 +25,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Virtual Machine
 - Wireshark
-- 
-- 
-- 
+- Administrator Poershell Terminal
 
 <h2>Actions and Observations</h2>
 
