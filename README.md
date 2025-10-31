@@ -45,6 +45,8 @@ Azure resources
 </p>
 <p>
 Wireshark
+
+ICMP
   (Observe ICMP Traffic)
 
   If using Mac, install Microsoft Remote Desktop
@@ -70,6 +72,7 @@ From The Windows 10 VM, open command line or PowerShell and attempt to ping a pu
 
 </p>
 <p>
+
 (Configuring a Firewall [Network Security Group])
 
   Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM
@@ -85,7 +88,7 @@ Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command
 Stop the ping activity
 
 -- Next
-
+SSH
 (Observe SSH Traffic)
 
 Log back into the windows-vm
@@ -109,8 +112,10 @@ Network configuration
 
 
 <img width="1437" height="803" alt="image" src="https://github.com/user-attachments/assets/852f1718-5492-4d05-87d0-b2ff07478a9d" />
-icmpv4
+icmpv4 example
 
+
+DHCP
 (Observe DHCP Traffic)
 
 Back in Wireshark, filter for DHCP traffic only
@@ -170,7 +175,7 @@ On Client-1, nslookup “search”, observe the results of the CNAME record
 
 
 <img width="1652" height="900" alt="image" src="https://github.com/user-attachments/assets/92dee813-e4b0-4733-a571-71e9547a6273" />
-ubuntu (linux)
+Ubuntu (linux)
 
 <img width="1492" height="826" alt="image" src="https://github.com/user-attachments/assets/1da535bd-7f7d-4b7b-9de9-063da1e9ecb9" />
 ubuntu linux to windows
