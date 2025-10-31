@@ -35,7 +35,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 </p>
 <p>
-Azure resources
+Azure resources example
 </p>
 <br />
 
@@ -44,7 +44,8 @@ Azure resources
 
 </p>
 <p>
-Wireshark
+Wireshark example
+
 
 ICMP
   (Observe ICMP Traffic)
@@ -108,7 +109,7 @@ Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 
 </p>
 <img width="1657" height="673" alt="image" src="https://github.com/user-attachments/assets/c2fc9834-21fd-4141-9f55-246be83a661e" />
-Network configuration
+Network configuration example
 
 
 <img width="1437" height="803" alt="image" src="https://github.com/user-attachments/assets/852f1718-5492-4d05-87d0-b2ff07478a9d" />
@@ -175,14 +176,14 @@ On Client-1, nslookup “search”, observe the results of the CNAME record
 
 
 <img width="1652" height="900" alt="image" src="https://github.com/user-attachments/assets/92dee813-e4b0-4733-a571-71e9547a6273" />
-Ubuntu (linux)
+Ubuntu (linux) example
 
 <img width="1492" height="826" alt="image" src="https://github.com/user-attachments/assets/1da535bd-7f7d-4b7b-9de9-063da1e9ecb9" />
 ubuntu linux to windows
-TCP
+TCP example
 
 <img width="1578" height="947" alt="image" src="https://github.com/user-attachments/assets/9aab450b-c231-47ec-8693-bdbbe85a6e5b" />
-UDP
+UDP example
 
 
 <img width="1505" height="980" alt="image" src="https://github.com/user-attachments/assets/98661362-2f89-4558-8f16-f0faa0634790" />
