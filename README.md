@@ -70,7 +70,20 @@ From The Windows 10 VM, open command line or PowerShell and attempt to ping a pu
 
 </p>
 <p>
-Lorem ipsum dolor 
+(Configuring a Firewall [Network Security Group])
+
+  Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM
+
+Open the Network Security Group your Ubuntu VM is using and disable incoming (inbound) ICMP traffic
+
+Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity
+
+Re-enable ICMP traffic for the Network Security Group your Ubuntu VM is
+
+Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity (should start working)
+
+Stop the ping activity
+
 </p>
 <img width="1657" height="673" alt="image" src="https://github.com/user-attachments/assets/c2fc9834-21fd-4141-9f55-246be83a661e" />
 Network configuration
