@@ -51,8 +51,12 @@ ICMP
   (Observe ICMP Traffic)
 
   If using Mac, install Microsoft Remote Desktop
+  <img width="1178" height="408" alt="Screenshot 2025-10-11 000520" src="https://github.com/user-attachments/assets/f35f74bc-29ef-48ed-8547-cca57e8cc79d" />
+
 
 Use Remote Desktop to connect to your Windows 10 Virtual Machine
+<img width="1201" height="755" alt="Screenshot 2025-10-11 000628" src="https://github.com/user-attachments/assets/11ced1d5-51ec-4e0c-a687-58a2be1cd8fa" />
+
 
 Within your Windows 10 Virtual Machine, Install Wireshark
 
